@@ -1,4 +1,4 @@
-## Lecture 1: Everyday Exercise and SportNeurons and Glial Cells
+## Lecture 1: Neurons and Glial Cells
 
 ![](DMAB-1_fin_1_tbg.png)
 
