@@ -1,6 +1,6 @@
 ## Lecture 3: The Action Potential
 
-![](DMAB-3_fin_1_tbg.png)
+![](DMAB-03_fin_1_tbg.png)
 
 ### References & Credits
 
