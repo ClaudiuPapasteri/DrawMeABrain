@@ -14,6 +14,10 @@ Drawing brains is a playful, unpretentious, and charming way to help our brains 
 
 ![](flipbook_animated.gif)
 
+Either digitally or the old fashioned way - draw along to consolidate your learning!
+
+![](student_drawings.gif)
+
 ## Contributions
 
 Suggestions and ideas are welcome. You can also contribute your own drawings as `.excalidraw` files for [Excalidraw](https://excalidraw.com/). 
